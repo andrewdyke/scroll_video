@@ -1,0 +1,12 @@
+
+#set-height {
+  display: block;
+  height: 13500px;
+}
+
+#vid {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
